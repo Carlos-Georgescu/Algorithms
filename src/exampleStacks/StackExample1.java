@@ -4,12 +4,23 @@ import java.util.*;
 public class StackExample1 {
     public static void main(String args[])
     {
-        Stack<Character> tower = new Stack<Character>();
+       Scanner in = new Scanner(System.in);
 
-        tower.add('R');
-        tower.add('B');
-        tower.add('Y');
+       int score = in.nextInt();
 
-        System.out.println(tower.contains('B'));
+       switch (score / 10)
+       {
+           case 9:
+               System.out.println("A grade");
+               break;
+           case 8:
+               System.out.println("B grade ");
+               break;
+           case 7:
+               System.out.println("C grade ");
+               break;
+           default:
+               System.out.println("D grade and below");
+       }
     }
 }
