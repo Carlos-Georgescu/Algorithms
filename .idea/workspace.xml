@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e61d83ee-f915-404e-90a4-77aa38e8dce4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javaCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/javaCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/META-INF/javaCourse.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/exampleStacks/StackExample1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/exampleStacks/arrayStack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/exampleStacks/arrayStack/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/exampleStacks/arrayStack/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/Chaining/ChainedHastable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/Chaining/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/Chaining/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/Chaining/StoredEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/linearProbing/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/linearProbing/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/linearProbing/SimpleHashtable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/hashTable/linearProbing/StoredEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/EmployeeLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/EmployeeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/doublyLinkedList/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/doublyLinkedList/EmployeeDoublyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/doublyLinkedList/EmployeeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/doublyLinkedList/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/linkedListSDK/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/linkedList/linkedListSDK/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/queue/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/queue/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/queue/problems/codeKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/queue/problems/palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/BucketSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/bubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/countingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/insertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/insertionSortRecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/mergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/quickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/recursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/selectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/sorting/shellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/trees/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/trees/PostOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaCourse/src/trees/PreOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/CheckPermutation1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/IsUnique1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/PalindromePermutation1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/URLify1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashTable/problems/SingleNumberHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/HonestCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/Rotateby90degrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/arrayPartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/miniMalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/noNewFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceProblems/leetcode/singleNumber136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a35ud1PCVMmbq48PXIQn6MoD6P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/doublyLinkedList" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/doublyLinkedList" />
+      <recent name="$PROJECT_DIR$/src/linkedList" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.hashTable" />
+      <recent name="src.hashTable.chaining" />
+      <recent name="algorithmsLearn.Algorithms.queue.problems" />
+      <recent name="algorithmsLearn.algoCourse.hashTable" />
+      <recent name="arrayStack" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PalindromePermutation1_4">
+    <configuration name="CheckPermutation1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.arrays.CheckPermutation1_2" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsUnique1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.arrays.IsUnique1_1" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromePermutation1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.arrays.PalindromePermutation1_4" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLify1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.arrays.URLify1_3" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dogDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.trees.dogDriver" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PalindromePermutation1_4" />
+        <item itemvalue="Application.URLify1_3" />
+        <item itemvalue="Application.CheckPermutation1_2" />
+        <item itemvalue="Application.IsUnique1_1" />
+        <item itemvalue="Application.dogDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e61d83ee-f915-404e-90a4-77aa38e8dce4" name="Default Changelist" comment="" />
+      <created>1585951660178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585951660178</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Advanced Algorithms for Java">
+      <created>1588664225085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588664225085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Advanced Algorithms for Java">
+      <created>1588664788992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588664788992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Advanced Algorithms for Java&quot;&#10;&#10;This reverts commit d1b7a887">
+      <created>1588665453205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588665453205</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;Advanced Algorithms for Java&quot;&#10;&#10;This reverts commit d1b7a887">
+      <created>1588665554423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588665554423</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit 2">
+      <created>1588759313881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588759313881</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit 2">
+      <created>1590625924147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590625924147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tree Practice">
+      <created>1590659795066</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590659795067</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/carlos/IdeaProjects/javaCourse/src/algorithmsLearn/algorithms" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Advanced Algorithms for Java" />
+    <MESSAGE value="Revert &quot;Advanced Algorithms for Java&quot;&#10;&#10;This reverts commit d1b7a887" />
+    <MESSAGE value="Commit 2" />
+    <MESSAGE value="Tree Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree Practice" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1605141932382">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="773" y="259" key="#com.intellij.ide.util.MemberChooser/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605141932382" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1605598925113">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956595" />
+    <state width="1878" height="315" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090840" />
+    <state width="1398" height="296" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143654" />
+    <state width="1878" height="250" key="GridCell.Tab.0.bottom/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190252" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598925113" />
+    <state width="1878" height="242" key="GridCell.Tab.0.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626254" />
+    <state width="1878" height="360" key="GridCell.Tab.0.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359069" />
+    <state width="1878" height="226" key="GridCell.Tab.0.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386939" />
+    <state width="1398" height="288" key="GridCell.Tab.0.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394999" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1605598925111">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956593" />
+    <state width="1878" height="315" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090839" />
+    <state width="1398" height="296" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143651" />
+    <state width="1878" height="250" key="GridCell.Tab.0.center/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190251" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598925111" />
+    <state width="1878" height="242" key="GridCell.Tab.0.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626253" />
+    <state width="1878" height="360" key="GridCell.Tab.0.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359067" />
+    <state width="1878" height="226" key="GridCell.Tab.0.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386938" />
+    <state width="1398" height="288" key="GridCell.Tab.0.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394999" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1605598925111">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956592" />
+    <state width="1878" height="315" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090839" />
+    <state width="1398" height="296" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143651" />
+    <state width="1878" height="250" key="GridCell.Tab.0.left/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190251" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598925111" />
+    <state width="1878" height="242" key="GridCell.Tab.0.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626252" />
+    <state width="1878" height="360" key="GridCell.Tab.0.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359066" />
+    <state width="1878" height="226" key="GridCell.Tab.0.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386938" />
+    <state width="1398" height="288" key="GridCell.Tab.0.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394998" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1605598925112">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956594" />
+    <state width="1878" height="315" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090840" />
+    <state width="1398" height="296" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143652" />
+    <state width="1878" height="250" key="GridCell.Tab.0.right/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190252" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598925112" />
+    <state width="1878" height="242" key="GridCell.Tab.0.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626254" />
+    <state width="1878" height="360" key="GridCell.Tab.0.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359068" />
+    <state width="1878" height="226" key="GridCell.Tab.0.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386938" />
+    <state width="1398" height="288" key="GridCell.Tab.0.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394999" />
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom" timestamp="1605598259482">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598259482" />
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601623558207" />
+    <state width="1878" height="356" key="GridCell.Tab.1.center" timestamp="1605598259482">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598259482" />
+    <state width="1878" height="356" key="GridCell.Tab.1.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601623558206" />
+    <state width="1878" height="356" key="GridCell.Tab.1.left" timestamp="1605598259481">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598259481" />
+    <state width="1878" height="356" key="GridCell.Tab.1.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601623558205" />
+    <state width="1878" height="356" key="GridCell.Tab.1.right" timestamp="1605598259482">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598259482" />
+    <state width="1878" height="356" key="GridCell.Tab.1.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601623558207" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog" timestamp="1605575145912">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-962" y="383" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603496761586" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1603756785536" />
+    <state x="478" y="383" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604292994879" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602714575879" />
+    <state x="2398" y="383" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1603325702636" />
+    <state x="2557" y="411" key="com.intellij.ide.util.TipDialog/3840.63.1440.900/1920.-32.1920.1080/0.0.1920.1080@1920.-32.1920.1080" timestamp="1598083596810" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1605574813486" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605575145912" />
+    <state x="2557" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604100987147" />
+    <state x="2557" y="425" key="com.intellij.ide.util.TipDialog/3840.86.1440.877/0.23.1920.1057/1920.-9.1920.1057@3840.86.1440.877" timestamp="1600206544311" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601621923008" />
+    <state x="2557" y="425" key="com.intellij.ide.util.TipDialog/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601944068977" />
+    <state x="4229" y="211" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603758105763">
+      <screen x="3840" y="76" width="1440" height="877" />
+    </state>
+    <state x="4229" y="211" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@3840.76.1440.877" timestamp="1603758105763" />
+    <state x="1931" y="2" width="1898" height="1035" maximized="true" key="dock-window-1" timestamp="1601682289476">
+      <screen x="1920" y="-9" width="1920" height="1057" />
+    </state>
+    <state x="1931" y="2" width="1898" height="1035" maximized="true" key="dock-window-1/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601682289476" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/shellSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myOwnTry/stack/postFixExpression.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myOwnTry/stack/sortStackCCI.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myOwnTry/stack/sortStackCCI2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myOwnTry/queues/codeKeys.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practiceProblems/leetcode/singleNumber136.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/CheckPermutation1_2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/URLify1_3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="givenStack.peek()" language="JAVA" />
+        <watch expression="asciiNum" language="JAVA" />
+        <watch expression="val1" />
+        <watch expression="nums[j]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
