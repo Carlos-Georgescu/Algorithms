@@ -65,4 +65,10 @@ public class Dog {
     public void setSleeping(boolean sleeping) {
         this.sleeping = sleeping;
     }
+
+    public int changeInt(int num)
+    {
+        num++;
+        return num;
+    }
 }

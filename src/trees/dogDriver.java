@@ -3,21 +3,23 @@ import java.util.Scanner;
 public class dogDriver {
     public static void main(String args[])
     {
-        Dog d1 = new Dog(14, "Carlos", "Big", true);
+//        Dog d1 = new Dog(14, "Carlos", "Big", true);
+//
+//        Dog d2 = d1;
+//
+//        d1.setAge(20);
+//        d1.setName("Joshua");
 
-        Dog d2 = d1;
+//        System.out.println(d2.getAge());
+//        System.out.println(d2.getName());
 
-        d1.setAge(20);
 
-        System.out.println(d2.getAge());
 
-        int n = 10;
 
-        int b = n;
+        Dog d3 = null; //null reference or null pointer
 
-        n = 20;
+        System.out.println(d3.getName());
 
-        System.out.println(b);
 
     }
 }

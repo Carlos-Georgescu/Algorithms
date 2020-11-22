@@ -3,22 +3,12 @@ package src;
 public class printing {
     public static void main(String args[])
     {
+        // you can make a double equal to an int
+        // but you can't make a int equal to a double
+        int n = 5;
+        double n1 = 6;
+        System.out.println(10%3.0);
 
-        //integer
-        int n = 8;
-
-        //double - numbers with decimal
-        double n2 = 5.2;
-
-        //string is a word, sentence and a character
-        String s1 = "Carlos";
-
-        //boolean is a data type that can only have two values = "true" or "false;
-        boolean b1 = true;
-
-        System.out.println(b1);
-
-
-
+        System.out.println(Character.valueOf('a'));
     }
 }
