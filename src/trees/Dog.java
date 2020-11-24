@@ -71,4 +71,10 @@ public class Dog {
         num++;
         return num;
     }
+
+    public String toString()
+    {
+        //FORMAT: Age then name then size
+        return age+name+size;
+    }
 }
