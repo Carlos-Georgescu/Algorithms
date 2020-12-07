@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61d83ee-f915-404e-90a4-77aa38e8dce4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hashTable/hashNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/MinimumString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/TesterPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/setNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaCourse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/src/example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/src/example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/src/practiceProblems/codeForces/OliviaExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/src/practiceProblems/codeForces/OliviaExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/src/printing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/src/printing.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaCourse/src/trees/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/src/trees/Dog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaCourse/src/trees/dogDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/src/trees/dogDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashTable/hashNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashTable/hashNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceProblems/codeForces/OliviaExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceProblems/codeForces/OliviaExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trees/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trees/dogDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/dogDriver.java" afterDir="false" />
     </list>
@@ -59,12 +73,11 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/algorithms" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/doublyLinkedList" />
-      <recent name="$PROJECT_DIR$/src/linkedList" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src.hashTable" />
@@ -73,17 +86,18 @@
       <recent name="algorithmsLearn.algoCourse.hashTable" />
       <recent name="arrayStack" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/algorithms" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/doublyLinkedList" />
+      <recent name="$PROJECT_DIR$/src/linkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dogDriver">
-    <configuration name="OneAway1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.arrays.OneAway1_5" />
+  <component name="RunManager" selected="Application.MinimumString">
+    <configuration name="MinimumString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.String.MinimumString" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.arrays.*" />
+          <option name="PATTERN" value="src.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,25 +105,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromePermutation1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.arrays.PalindromePermutation1_4" />
-      <module name="javaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dogDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.trees.dogDriver" />
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.trees.Tester" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.trees.TesterMain" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.inheritance.TesterPoint" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.arrays.test1" />
-      <module name="javaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dogDriver" />
+        <item itemvalue="Application.MinimumString" />
+        <item itemvalue="Application.TesterPoint" />
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.printing" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.PalindromePermutation1_4" />
-        <item itemvalue="Application.OneAway1_5" />
+        <item itemvalue="Application.TesterMain" />
       </list>
     </recent_temporary>
   </component>
@@ -275,51 +289,63 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="773" y="259" key="#com.intellij.ide.util.MemberChooser/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605141932382" />
-    <state width="1878" height="292" key="GridCell.Tab.0.bottom" timestamp="1606183607418">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="2668" y="443" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606957551526">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2668" y="443" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1606957551526" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1606958375144">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="250" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956595" />
     <state width="1878" height="315" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090840" />
     <state width="1398" height="296" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143654" />
-    <state width="1878" height="250" key="GridCell.Tab.0.bottom/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190252" />
+    <state width="1878" height="232" key="GridCell.Tab.0.bottom/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1606611527864" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1606958375144" />
     <state width="1878" height="292" key="GridCell.Tab.0.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606183607418" />
-    <state width="1878" height="242" key="GridCell.Tab.0.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626254" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1606625731245" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@3840.76.1440.877" timestamp="1606787253683" />
     <state width="1878" height="360" key="GridCell.Tab.0.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359069" />
     <state width="1878" height="226" key="GridCell.Tab.0.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386939" />
     <state width="1398" height="288" key="GridCell.Tab.0.bottom/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394999" />
-    <state width="1878" height="292" key="GridCell.Tab.0.center" timestamp="1606183607417">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1606958375143">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="250" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956593" />
     <state width="1878" height="315" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090839" />
     <state width="1398" height="296" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143651" />
-    <state width="1878" height="250" key="GridCell.Tab.0.center/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190251" />
+    <state width="1878" height="232" key="GridCell.Tab.0.center/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1606611527863" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1606958375143" />
     <state width="1878" height="292" key="GridCell.Tab.0.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606183607417" />
-    <state width="1878" height="242" key="GridCell.Tab.0.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626253" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1606625731244" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@3840.76.1440.877" timestamp="1606787253682" />
     <state width="1878" height="360" key="GridCell.Tab.0.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359067" />
     <state width="1878" height="226" key="GridCell.Tab.0.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386938" />
     <state width="1398" height="288" key="GridCell.Tab.0.center/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394999" />
-    <state width="1878" height="292" key="GridCell.Tab.0.left" timestamp="1606183607416">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1606958375143">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="250" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956592" />
     <state width="1878" height="315" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090839" />
     <state width="1398" height="296" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143651" />
-    <state width="1878" height="250" key="GridCell.Tab.0.left/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190251" />
+    <state width="1878" height="232" key="GridCell.Tab.0.left/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1606611527862" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1606958375143" />
     <state width="1878" height="292" key="GridCell.Tab.0.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606183607416" />
-    <state width="1878" height="242" key="GridCell.Tab.0.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626252" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1606625731243" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@3840.76.1440.877" timestamp="1606787253681" />
     <state width="1878" height="360" key="GridCell.Tab.0.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359066" />
     <state width="1878" height="226" key="GridCell.Tab.0.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386938" />
     <state width="1398" height="288" key="GridCell.Tab.0.left/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394998" />
-    <state width="1878" height="292" key="GridCell.Tab.0.right" timestamp="1606183607417">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1606958375144">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1398" height="250" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603498956594" />
     <state width="1878" height="315" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602721090840" />
     <state width="1398" height="296" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1602550143652" />
-    <state width="1878" height="250" key="GridCell.Tab.0.right/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603847190252" />
+    <state width="1878" height="232" key="GridCell.Tab.0.right/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1606611527864" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1606958375144" />
     <state width="1878" height="292" key="GridCell.Tab.0.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606183607417" />
-    <state width="1878" height="242" key="GridCell.Tab.0.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604102626254" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1606625731245" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@3840.76.1440.877" timestamp="1606787253682" />
     <state width="1878" height="360" key="GridCell.Tab.0.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601108359068" />
     <state width="1878" height="226" key="GridCell.Tab.0.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601972386938" />
     <state width="1398" height="288" key="GridCell.Tab.0.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@3840.86.1440.877" timestamp="1600761394999" />
@@ -343,24 +369,29 @@
     </state>
     <state width="1878" height="356" key="GridCell.Tab.1.right/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1605598259482" />
     <state width="1878" height="356" key="GridCell.Tab.1.right/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601623558207" />
-    <state x="637" y="457" key="com.intellij.ide.util.TipDialog" timestamp="1606179528210">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="2693" y="269" key="RollbackChangesDialog" timestamp="1607308409864">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2693" y="269" key="RollbackChangesDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1607308409864" />
+    <state x="2557" y="457" key="com.intellij.ide.util.TipDialog" timestamp="1607307952966">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-962" y="383" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1603496761586" />
     <state x="637" y="457" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1603756785536" />
     <state x="478" y="383" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1604292994879" />
     <state x="637" y="457" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602714575879" />
     <state x="2398" y="383" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.1057@1920.23.1440.877" timestamp="1603325702636" />
-    <state x="2557" y="411" key="com.intellij.ide.util.TipDialog/3840.63.1440.900/1920.-32.1920.1080/0.0.1920.1080@1920.-32.1920.1080" timestamp="1598083596810" />
     <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1605574813486" />
-    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606179528210" />
-    <state x="2557" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604100987147" />
+    <state x="2557" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1606945267368" />
+    <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606722834018" />
+    <state x="2557" y="457" key="com.intellij.ide.util.TipDialog/3840.76.1440.877/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1607307952966" />
     <state x="2557" y="425" key="com.intellij.ide.util.TipDialog/3840.86.1440.877/0.23.1920.1057/1920.-9.1920.1057@3840.86.1440.877" timestamp="1600206544311" />
     <state x="637" y="457" key="com.intellij.ide.util.TipDialog/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1601621923008" />
     <state x="2557" y="425" key="com.intellij.ide.util.TipDialog/3840.86.1440.877/1920.-9.1920.1057/0.23.1920.1057@1920.-9.1920.1057" timestamp="1601944068977" />
-    <state x="4229" y="211" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603758105763">
-      <screen x="3840" y="76" width="1440" height="877" />
+    <state x="519" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606611511475">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="519" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1606611511475" />
     <state x="4229" y="211" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3840.76.1440.877/0.23.1920.1057/1920.23.1920.1057@3840.76.1440.877" timestamp="1603758105763" />
     <state x="1931" y="2" width="1898" height="1035" maximized="true" key="dock-window-1" timestamp="1601682289476">
       <screen x="1920" y="-9" width="1920" height="1057" />
